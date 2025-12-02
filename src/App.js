@@ -4,7 +4,7 @@ import HomeScreen from './components/screens/HomeScreen';
 import YourListings from './components/screens/YourListings';
 import SoldListings from './components/screens/SoldListings';
 import MessagesScreen from './components/screens/MessagesScreen';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider } from './contexts/AuthContext';
 
 function App() {
@@ -25,3 +25,4 @@ function App() {
 }
 
 export default App;
+
