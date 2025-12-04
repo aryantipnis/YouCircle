@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YouCircle/static/css/main.bb868da3.css",
+    "main.js": "/YouCircle/static/js/main.360a2a88.js",
+    "static/js/453.899eb947.chunk.js": "/YouCircle/static/js/453.899eb947.chunk.js",
+    "static/media/youcircle_logo.png": "/YouCircle/static/media/youcircle_logo.9a651f4c73b7a3eed415.png",
+    "index.html": "/YouCircle/index.html",
+    "main.bb868da3.css.map": "/YouCircle/static/css/main.bb868da3.css.map",
+    "main.360a2a88.js.map": "/YouCircle/static/js/main.360a2a88.js.map",
+    "453.899eb947.chunk.js.map": "/YouCircle/static/js/453.899eb947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb868da3.css",
+    "static/js/main.360a2a88.js"
+  ]
+}
