@@ -2,6 +2,8 @@
 
 YouCircle is a peer-to-peer campus marketplace where students can easily discover, book, and offer services, as well as purchase items directly from other students. By fostering affordability, convenience, and trust, YouCircle strengthens student connections while saving time and enhancing campus life and resources.
 
+👉 The app is live at: https://youcircle.netlify.app
+
 ## Project Objective
 YouCircle's main goal is to create a safe, student-driven ecosystem that allows peers to exchange services and goods easily. The platform aims to address the common challenges college students face — finding affordable, trustworthy, and accessible options for tutoring, personal services, and item exchanges, all within a verified student environment.
 
